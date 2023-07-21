@@ -1,6 +1,8 @@
+Certainly! Here's an updated version of the README file that includes the demo link:
+
 # Subhas Chandra Bose - Indian Freedom Fighter
 
-![Subhas Chandra Bose](/img/220px-Subhas_Chandra_Bose_NRB.jpg)
+![Subhas Chandra Bose](img/220px-Subhas_Chandra_Bose_NRB.jpg)
 
 ## Description
 
@@ -10,10 +12,16 @@ This repository contains a simple HTML page dedicated to the life of Subhas Chan
 
 - [Description](#description)
 - [Table of Contents](#table-of-contents)
+- [Demo](#demo)
 - [About Subhas Chandra Bose](#about-subhas-chandra-bose)
 - [Getting Started](#getting-started)
 - [How to Contribute](#how-to-contribute)
 - [License](#license)
+
+## Demo
+
+To see the live demo of the Subhas Chandra Bose tribute page, visit the following link:
+[Subhas Chandra Bose Tribute Page Demo](https://jatinsingh0701.github.io/A_tribute_Page_html/)
 
 ## About Subhas Chandra Bose
 
@@ -28,7 +36,7 @@ To view the content of this repository locally, follow these steps:
 1. Clone the repository to your local machine using the following command:
 
 ```bash
-https://github.com/JatinSingh0701/A_tribute_Page_html.git
+git clone https://github.com/your-username/subhas-chandra-bose.git
 ```
 
 2. Open the `index.html` file in your preferred web browser to access the webpage dedicated to Subhas Chandra Bose.
