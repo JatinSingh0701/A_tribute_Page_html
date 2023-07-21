@@ -28,7 +28,7 @@ To view the content of this repository locally, follow these steps:
 1. Clone the repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/your-username/subhas-chandra-bose.git
+https://github.com/JatinSingh0701/A_tribute_Page_html.git
 ```
 
 2. Open the `index.html` file in your preferred web browser to access the webpage dedicated to Subhas Chandra Bose.
